@@ -1,0 +1,16 @@
+# Maven
+target/
+*.ser
+*.ec
+
+#Lincoln's project
+dataset/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# OS X
+.DS_Store
