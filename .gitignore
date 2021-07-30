@@ -4,7 +4,8 @@ target/
 *.ec
 
 #Lincoln's project
-dataset/
+dataset/*
+!dataset/.gitkeep
 
 # Eclipse
 .classpath
